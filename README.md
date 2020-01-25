@@ -1,4 +1,4 @@
-# Image-orientation-classifier
+# IMAGE CLASSIFICATION:
 
 The task assigned in this assignment is to classify images based on which direction the image is oriented in. We need to use different types of classifiers to achieve this task. We have implemented Neural Networks, Decision Tree and K Nearest Neighbors to classify the images given.
 
